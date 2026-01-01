@@ -1,2 +1,2 @@
-# Trining
+# Training
 Testing
